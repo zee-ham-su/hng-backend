@@ -5,8 +5,8 @@ services:
     ports:
       - 5434:5432
     environment:
-      POSTGRES_USER: postgres
-      POSTGRES_PASSWORD: 123
+      POSTGRES_USER: sufian_hamza
+      POSTGRES_PASSWORD: russ3509
       POSTGRES_DB: nest
     networks:
       - freecodecamp
